@@ -1,0 +1,8 @@
+.login_bg{
+    background-image: url(https://images.unsplash.com/photo-1523111567642-f71bebeb173f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+    height:92vh;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
